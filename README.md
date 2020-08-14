@@ -17,7 +17,7 @@ There are three projects included, which made with all the tools that were used 
 
 * [Heart Disease Classification](https://github.com/SwethaVipparla/Machine-Learning-and-Data-Science/tree/master/Jupyter%20Notebooks/Milestone%20Project%201)
     * Made With: Jupyter Notebook
-    * Description: This project uses logistic regression to predict the susceptiblilty of a patient to heart disease based on the symptoms that are shown.
+    * Description: This project uses logistic regression to predict the susceptiblility of a patient to heart disease based on the symptoms that are shown.
     * Dataset: Kaggle
 
 * [Bluebook for Bulldozers](https://github.com/SwethaVipparla/Machine-Learning-and-Data-Science/tree/master/Jupyter%20Notebooks/Milestone%20Project%202)
